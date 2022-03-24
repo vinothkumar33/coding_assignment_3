@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+i {
+  position: center;
+}
+i:hover {
+  color: #00fcb6;
+  cursor: pointer;
+}
